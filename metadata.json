@@ -1,0 +1,6 @@
+{
+  "name": "FluencyForge AI",
+  "description": "Personal AI English communication coach with strict grammar correction, Malayalam explanations, voice practice, and structured daily fluency tasks.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
